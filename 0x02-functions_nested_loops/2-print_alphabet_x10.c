@@ -1,10 +1,11 @@
 #include "holberton.h"
 
 /**
- *Description: prints 10 times the alphabet.
- *
- *Return: alphabets 10 times
+ * print_alphabet - entry point
+ *Description: Prints the alphabet with _putchar
+ * Return: void
  */
+
 
 void print_alphabet_x10(void)
 {
