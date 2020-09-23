@@ -8,9 +8,10 @@
 
 int main(void)
 {
-	char c[10] = "Holberton";
+	char *c = "Holberton";
 	int i = 0;
-	for(i=0; i<=9; i++)
+
+	for (i = 0; i <= 9; i++)
 	{
 		_putchar(c[i]);
 	}
