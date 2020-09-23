@@ -1,10 +1,11 @@
 #include "holberton.h"
 
-/** 
+/**
  *main - Prints Holberton
  *
  *Return: Always 0
  */
+
 int main(void)
 {
 	char c[10] = "Holberton";
