@@ -1,10 +1,13 @@
 #include "holberton.h"
 
 /**
- *main - prints an alphabets in lowercase followed by newline
+ * print_alphabet - entry point
  *
- *Return: Always 0
+ * Description: Prints the alphabet with _putchar
+ *
+ * Return: void
  */
+
 void print_alphabet(void)
 {
 	char c;
