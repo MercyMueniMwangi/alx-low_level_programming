@@ -2,10 +2,13 @@
 
 /**
  * print_alphabet - entry point
- *Description: Prints the alphabet with _putchar
+ * Description: Prints the alphabet with _putchar
  * Return: void
  */
 
+/**
+ * print_alphabet_x10 - Prints 10 times the alphabet, in lowercase.
+ */
 
 void print_alphabet_x10(void)
 {
