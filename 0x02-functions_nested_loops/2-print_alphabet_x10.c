@@ -2,7 +2,9 @@
 
 /**
  * print_alphabet - entry point
- * print_alphabet_x10: Prints the alphabet with _putchar
+ *
+ * Description: Prints the alphabet with _putchar 10 times
+ *
  * Return: void
  */
 
