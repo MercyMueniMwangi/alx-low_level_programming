@@ -4,7 +4,7 @@
  * puts_half - prints half of a string
  * if odd len, start at (len - 1) / 2
  *
- * @str : string to be printed
+ * @str: string to be printed
  *
  *Returns: half of the string
  */
