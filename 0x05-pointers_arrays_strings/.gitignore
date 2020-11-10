@@ -2,3 +2,16 @@
 !*.c
 *#
 *main.c
+#9-strcpy.c#
+#4-print_rev.c#
+0-98
+1-swap
+101-keygen
+2-strlen
+3-puts
+4-print_rev
+5-rev_string
+6-puts2
+7-puts_half
+8-print_array
+9-strcpy
