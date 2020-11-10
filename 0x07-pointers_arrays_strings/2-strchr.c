@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * _strchr - Pointer to the first occurrence of the character c in the string s.
+ * _strchr - Pointer to first occurrence of character c in string s
  * @s: pointer.
  * @c: character.
  * Return: NULL if the character is not found or Pointer
