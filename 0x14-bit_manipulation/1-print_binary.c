@@ -3,17 +3,11 @@
 /**
  * print_binary - Prints the binary representation of a number.
  * @n: The number to be printed in binary.
- */
-#include "holberton.h"
-/**
- * print_binary - prints a number as a binary string
- * @n: number
- *
  * Return: void
  */
 void print_binary(unsigned long int n)
 {
-        int bit = sizeof(n) * 8, printed = 0;
+	int bit = sizeof(n) * 8, printed = 0;
 
         while (bit)
         {
